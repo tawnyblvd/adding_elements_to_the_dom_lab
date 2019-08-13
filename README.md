@@ -381,4 +381,4 @@ Make a website with a button, and 5 paragraph tags.  Clicking on the button shou
 
 # Question Ten
 
-Make a website with a number input, a heading and a button. Clicking on the button should replace the heading with a heading matching the number in the input.  (e.g Entering 4 into the number input should turn the heading into <h4>)
+Make a website with a number input, a heading and a button. Clicking on the button should replace the heading with a heading matching the number in the input.  (e.g Entering 4 into the number input should turn the heading into `<h4>`)
